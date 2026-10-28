@@ -1,0 +1,8 @@
+firmware/build/
+sim/harness
+__pycache__/
+results/runs/*/pins.csv
+results/runs/*/i2c.csv
+report/out/
+*.pyc
+demo/out/
